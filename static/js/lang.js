@@ -43,7 +43,23 @@ const TRANSLATIONS = {
         add_time: 'Ajouter du temps',
         block: 'Bloquer',
         time_added: 'Temps ajouté',
-        subscription_active: 'Abonnement actif'
+        subscription_active: 'Abonnement actif',
+        suit_label: 'Couleur',
+        status_label: 'Statut',
+        waiting_result: 'EN ATTENTE DU RÉSULTAT...',
+        suit_spade: 'Pique',
+        suit_heart: 'Cœur',
+        suit_diamond: 'Carreau',
+        suit_club: 'Trèfle',
+        history_title: '🔮 Historique des Prédictions',
+        game_no: 'JEU #',
+        type: 'TYPE',
+        result: 'RÉSULTAT',
+        status: 'STATUT',
+        date: 'DATE',
+        no_history: 'Aucun historique',
+        prediction_count_label: 'Préd. restantes',
+        pause_label: 'Arrêt'
     },
     
     en: {
@@ -53,6 +69,7 @@ const TRANSLATIONS = {
         disconnect: 'Disconnect',
         won: 'Won',
         lost: 'Lost',
+        prediction: 'PREDICTION',
         predict: 'Predict',
         clear: 'Clear',
         current_pred: 'CURRENT PREDICTION',
@@ -85,7 +102,23 @@ const TRANSLATIONS = {
         add_time: 'Add Time',
         block: 'Block',
         time_added: 'Time added',
-        subscription_active: 'Subscription active'
+        subscription_active: 'Subscription active',
+        suit_label: 'Color',
+        status_label: 'Status',
+        waiting_result: 'WAITING FOR RESULT...',
+        suit_spade: 'Spades',
+        suit_heart: 'Hearts',
+        suit_diamond: 'Diamonds',
+        suit_club: 'Clubs',
+        history_title: '🔮 Prediction History',
+        game_no: 'GAME #',
+        type: 'TYPE',
+        result: 'RESULT',
+        status: 'STATUS',
+        date: 'DATE',
+        no_history: 'No history',
+        prediction_count_label: 'Rem. Pred.',
+        pause_label: 'Stop'
     },
     
     es: {
@@ -127,7 +160,23 @@ const TRANSLATIONS = {
         add_time: 'Añadir tiempo',
         block: 'Bloquear',
         time_added: 'Tiempo añadido',
-        subscription_active: 'Suscripción activa'
+        subscription_active: 'Suscripción activa',
+        suit_label: 'Color',
+        status_label: 'Estado',
+        waiting_result: 'ESPERANDO RESULTADO...',
+        suit_spade: 'Picas',
+        suit_heart: 'Corazones',
+        suit_diamond: 'Diamantes',
+        suit_club: 'Tréboles',
+        history_title: '🔮 Historial de Predicciones',
+        game_no: 'JUEGO #',
+        type: 'TIPO',
+        result: 'RESULTADO',
+        status: 'ESTADO',
+        date: 'FECHA',
+        no_history: 'Sin historial',
+        prediction_count_label: 'Pred. restantes',
+        pause_label: 'Parada'
     },
     
     ru: {
@@ -169,7 +218,23 @@ const TRANSLATIONS = {
         add_time: 'Добавить время',
         block: 'Заблокировать',
         time_added: 'Время добавлено',
-        subscription_active: 'Подписка активна'
+        subscription_active: 'Подписка активна',
+        suit_label: 'Масть',
+        status_label: 'Статус',
+        waiting_result: 'ОЖИДАНИЕ РЕЗУЛЬТАТА...',
+        suit_spade: 'Пики',
+        suit_heart: 'Черви',
+        suit_diamond: 'Бубны',
+        suit_club: 'Трефы',
+        history_title: '🔮 История Предсказаний',
+        game_no: 'ИГРА #',
+        type: 'ТИП',
+        result: 'РЕЗУЛЬТАТ',
+        status: 'СТАТУС',
+        date: 'ДАТА',
+        no_history: 'Нет истории',
+        prediction_count_label: 'Пред. осталось',
+        pause_label: 'Стоп'
     },
     
     de: {
@@ -211,7 +276,23 @@ const TRANSLATIONS = {
         add_time: 'Zeit hinzufügen',
         block: 'Sperren',
         time_added: 'Zeit hinzugefügt',
-        subscription_active: 'Abonnement aktiv'
+        subscription_active: 'Abonnement aktiv',
+        suit_label: 'Farbe',
+        status_label: 'Status',
+        waiting_result: 'WARTE AUF ERGEBNIS...',
+        suit_spade: 'Pik',
+        suit_heart: 'Herz',
+        suit_diamond: 'Karo',
+        suit_club: 'Kreuz',
+        history_title: '🔮 Vorhersage-Verlauf',
+        game_no: 'SPIEL #',
+        type: 'TYP',
+        result: 'ERGEBNIS',
+        status: 'STATUS',
+        date: 'DATUM',
+        no_history: 'Kein Verlauf',
+        prediction_count_label: 'Verbl. Vorh.',
+        pause_label: 'Stopp'
     },
     
     it: {
@@ -253,7 +334,23 @@ const TRANSLATIONS = {
         add_time: 'Aggiungi tempo',
         block: 'Blocca',
         time_added: 'Tempo aggiunto',
-        subscription_active: 'Abbonamento attivo'
+        subscription_active: 'Abbonamento attivo',
+        suit_label: 'Seme',
+        status_label: 'Stato',
+        waiting_result: 'IN ATTESA DEL RISULTATO...',
+        suit_spade: 'Picche',
+        suit_heart: 'Cuori',
+        suit_diamond: 'Quadri',
+        suit_club: 'Fiori',
+        history_title: '🔮 Cronologia Predizioni',
+        game_no: 'PARTITA #',
+        type: 'TIPO',
+        result: 'RISULTATO',
+        status: 'STATO',
+        date: 'DATA',
+        no_history: 'Nessuna cronologia',
+        prediction_count_label: 'Pred. rimanenti',
+        pause_label: 'Stop'
     },
     
     pt: {
@@ -295,7 +392,23 @@ const TRANSLATIONS = {
         add_time: 'Adicionar tempo',
         block: 'Bloquear',
         time_added: 'Tempo adicionado',
-        subscription_active: 'Assinatura ativa'
+        subscription_active: 'Assinatura ativa',
+        suit_label: 'Naipe',
+        status_label: 'Status',
+        waiting_result: 'AGUARDANDO RESULTADO...',
+        suit_spade: 'Espadas',
+        suit_heart: 'Copas',
+        suit_diamond: 'Ouros',
+        suit_club: 'Paus',
+        history_title: '🔮 Histórico de Previsões',
+        game_no: 'JOGO #',
+        type: 'TIPO',
+        result: 'RESULTADO',
+        status: 'STATUS',
+        date: 'DATA',
+        no_history: 'Sem histórico',
+        prediction_count_label: 'Pred. restantes',
+        pause_label: 'Parada'
     },
     
     ar: {
@@ -337,7 +450,23 @@ const TRANSLATIONS = {
         add_time: 'إضافة وقت',
         block: 'حظر',
         time_added: 'تم إضافة الوقت',
-        subscription_active: 'الاشتراك نشط'
+        subscription_active: 'الاشتراك نشط',
+        suit_label: 'الشكل',
+        status_label: 'الحالة',
+        waiting_result: 'في انتظار النتيجة...',
+        suit_spade: 'بيك',
+        suit_heart: 'قلب',
+        suit_diamond: 'ديمون',
+        suit_club: 'كلو',
+        history_title: '🔮 سجل التنبؤات',
+        game_no: 'لعبة #',
+        type: 'النوع',
+        result: 'النتيجة',
+        status: 'الحالة',
+        date: 'التاريخ',
+        no_history: 'لا يوجد سجل',
+        prediction_count_label: 'التنبؤات المتبقية',
+        pause_label: 'توقف'
     },
     
     zh: {
@@ -379,7 +508,23 @@ const TRANSLATIONS = {
         add_time: '添加时间',
         block: '封锁',
         time_added: '时间已添加',
-        subscription_active: '订阅有效'
+        subscription_active: '订阅有效',
+        suit_label: '花色',
+        status_label: '状态',
+        waiting_result: '等待结果中...',
+        suit_spade: '黑桃',
+        suit_heart: '红桃',
+        suit_diamond: '方块',
+        suit_club: '梅花',
+        history_title: '🔮 预测历史',
+        game_no: '游戏 #',
+        type: '类型',
+        result: '结果',
+        status: '状态',
+        date: '日期',
+        no_history: '无历史记录',
+        prediction_count_label: '剩余预测',
+        pause_label: '暂停'
     }
 };
 
