@@ -1,0 +1,6 @@
+aiohttp
+telethon
+jinja2
+aiohttp
+telethon
+psycopg2-binary
